@@ -7,4 +7,4 @@ OAuth2 example with flask
 
 - click on install.bat
 
-- clicl on ServerStart.bat
+- click on ServerStart.bat
